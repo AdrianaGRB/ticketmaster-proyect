@@ -1,2 +1,1 @@
-Video example from react class, review how to use the hooks useRef, fordwardRef and useImperativeHandle.
-Also testing the git's codespace.
+Video player example from a React class, reviewing how to use the hooks useRef, forwardRef, and useImperativeHandle. Also testing Git's Codespaces.
